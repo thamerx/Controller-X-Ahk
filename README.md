@@ -14,7 +14,7 @@ Alt-Tab Control Select + Start then
 *  then LB or RB to switch
 *  X to Exit
   
-Launch Mouse Control
+Launch or Close Mouse Control
   * Guide button twice
   
   
@@ -29,4 +29,4 @@ If no mouse Control is active and you're using Firefox or Chrome
 
 
 
-Uses AutoHotKey and custom version of Gopher360
+Uses AutoHotKey, Xinput and custom version of Gopher360
