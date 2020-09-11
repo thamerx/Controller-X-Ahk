@@ -10,8 +10,7 @@ then with
   * RT = Volume UP
   * LT = Volume Down
   
-Alt-Tab Control
-  Select + Start
+Alt-Tab Control Select + Start then
     * then LB or RB to switch
     * X to Exit
   
