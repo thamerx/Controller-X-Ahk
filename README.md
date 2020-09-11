@@ -22,8 +22,8 @@ If no mouse Control is active and you're using Firefox or Chrome
  * B = F (fullscreen)
  * Up = Speeds up video playback
  * Down = slows down video playback
- * Left = jump forwards 5 seconds youtube
- * Right = jump backwards 5 secomnds youtube
+ * Right = jump forwards 5 seconds youtube
+ * Left = jump backwards 5 secomnds youtube
 
 
 
