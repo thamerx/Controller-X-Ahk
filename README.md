@@ -29,4 +29,4 @@ If no mouse Control is active and you're using Firefox or Chrome
 
 
 
-Uses AutoHotKey, Xinput and a custom version of Gopher360
+Uses AutoHotKey, Xinput and a custom build of Gopher360
