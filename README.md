@@ -11,6 +11,7 @@ then with
   * LT = Volume Down
   
 Alt-Tab Control Select + Start then
+
     * then LB or RB to switch
     * X to Exit
   
